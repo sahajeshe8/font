@@ -1,0 +1,90 @@
+@font-face {
+    font-family: 'Metropolis Extra';
+    src: url('metropolis-ExtraBoldItalic.woff2') format('woff2'),
+        url('metropolis-ExtraBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Metropolis';
+    src: url('metropolis-LightItalic.woff2') format('woff2'),
+        url('metropolis-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Metropolis Semi';
+    src: url('metropolis-SemiBold.woff2') format('woff2'),
+        url('metropolis-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Metropolis';
+    src: url('metropolis-Light.woff2') format('woff2'),
+        url('metropolis-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Metropolis Semi';
+    src: url('metropolis-SemiBoldItalic.woff2') format('woff2'),
+        url('metropolis-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Metropolis';
+    src: url('metropolis-RegularItalic.woff2') format('woff2'),
+        url('metropolis-RegularItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Metropolis';
+    src: url('metropolis-ThinItalic.woff2') format('woff2'),
+        url('metropolis-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Metropolis Extra';
+    src: url('metropolis-ExtraLightItalic.woff2') format('woff2'),
+        url('metropolis-ExtraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Metropolis Extra';
+    src: url('metropolis-ExtraLight.woff2') format('woff2'),
+        url('metropolis-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Metropolis';
+    src: url('metropolis-Thin.woff2') format('woff2'),
+        url('metropolis-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
